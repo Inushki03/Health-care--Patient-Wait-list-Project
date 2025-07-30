@@ -1,1 +1,5 @@
-# Health-care--Patient-Wait-list-Project
+# Patient Waiting List in Health care
+#### Project Overview
+Analyzed hospital patient waiting list data by comparing Inpatients (admitted >1 day) and Day Cases (discharged within the same day) over four years. Explored changes in average and median patient counts across different time bands and age groups. Developed monthly trend analysis to identify patterns in patient admissions. Provided insights into healthcare demand, service usage, and seasonal variations, supporting better planning and resource allocation.
+#### Covered in This Report
+This Power BI dashboard analyzes patient waiting lists by comparing Inpatients and Day Cases across years, time bands, and age groups. DAX was used to calculate averages, medians, and monthly trends.
